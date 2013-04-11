@@ -1,0 +1,30 @@
+mmu_let_7a_1*	71712	RNA22 3` UTR predictions	4.783711
+mmu_let_7a_1*	233410	RNA22 3` UTR predictions	2.707143
+mmu_let_7a_1*	52626	RNA22 3` UTR predictions	0.638347
+mmu_let_7a_1*	211329	RNA22 3` UTR predictions	2.928147
+mmu_let_7a_1*	83813	RNA22 3` UTR predictions	3.677335
+mmu_let_7a_1*	83814	RNA22 3` UTR predictions	1.135
+mmu_let_7a_1*	73852	RNA22 3` UTR predictions	1.78
+mmu_let_7a_1*	18027	RNA22 3` UTR predictions	1.591177
+mmu_let_7a_1*	18029	RNA22 3` UTR predictions	1.847727
+mmu_let_7a_1*	67480	RNA22 3` UTR predictions	1.548387
+mmu_let_7a_1*	18023	RNA22 3` UTR predictions	3.119388
+mmu_let_7a_1*	210274	RNA22 3` UTR predictions	2.893182
+mmu_let_7a_1*	218441	RNA22 3` UTR predictions	3.648097
+mmu_let_7a_1*	218442	RNA22 3` UTR predictions	3.184876
+mmu_let_7a_1*	56205	RNA22 3` UTR predictions	0.924895
+mmu_let_7a_1*	327655	RNA22 3` UTR predictions	2.009892
+mmu_let_7a_1*	55943	RNA22 3` UTR predictions	1.961705
+mmu_let_7a_1*	52615	RNA22 3` UTR predictions	2.020868
+mmu_let_7a_1*	22402	RNA22 3` UTR predictions	0.992961
+mmu_let_7a_1*	22401	RNA22 3` UTR predictions	5.170174
+mmu_let_7a_1*	21681	RNA22 3` UTR predictions	6.167112
+mmu_let_7a_1*	217304	RNA22 3` UTR predictions	2.041641
+mmu_let_7a_1*	67493	RNA22 3` UTR predictions	5.3791
+mmu_let_7a_1*	69780	RNA22 3` UTR predictions	1.58125
+mmu_let_7a_1*	18015	RNA22 3` UTR predictions	1.981229
+mmu_let_7a_1*	69786	RNA22 3` UTR predictions	1.133264
+mmu_let_7a_1*	55950	RNA22 3` UTR predictions	0.978572
+mmu_let_7a_1*	217303	RNA22 3` UTR predictions	1.770455
+mmu-miR-499	14360	RNA22 3`	-1.2874
+mmu-miR-499	23980	RNA22 3`	-0.1539
