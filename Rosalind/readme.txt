@@ -14,4 +14,4 @@ goog exampes from others
 good_1_rosalind.rb	better than "1_rosalind.rb"
 good_2_rosalind.rb	better than "2_rosalind.rb"
 
-如此类推
+濡傛绫绘帹
