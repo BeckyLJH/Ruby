@@ -18,6 +18,7 @@ def all_files(file,dbname)
 		str = text.split("\t")
 		str[0] = str[0].sub("star","*")		
 		str[0] = str[0].sub("-star","*")
+		str[0] = str[0].sub("_star","*")
 		str[0] = str[0].sub("mir","miR")
 
 		k = str[0]+"\t"+str[1]
