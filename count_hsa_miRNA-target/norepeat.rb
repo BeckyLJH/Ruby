@@ -8,6 +8,7 @@ hash = {}
 outFile = File.new("norepeat_top_1_percent.txt","w")
 File.read("top_1_percent.txt").split("\n").each do |l|
 	str = l.split("\t")
+	str[0] = str[0].sub("_star","*")	
 	str[0] = str[0].sub("star","*")		
 	str[0] = str[0].sub("-star","*")
 	str[0] = str[0].sub("mir","miR")
