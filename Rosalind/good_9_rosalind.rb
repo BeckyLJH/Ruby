@@ -1,6 +1,6 @@
 #!usr/bin/env ruby
 #coding:utf-8
-usage = "#{$0} Solve the problem \"Combing Through the Haystack \" in Rosalind
+usage = "#{$0} Solve the problem \"Finding a Motif in DNA \" in Rosalind
 Author:Jiahui Liu<beckyljh@gmail.com>"
 
 content = File.read("DNA.txt").split("\n")

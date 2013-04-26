@@ -6,7 +6,9 @@
 6_rosalind.rb	for "Computing GC Content"
 7_rosalind.rb	for "Counting Point Mutations"
 8_rosalind.rb	for "Translating RNA into Protein"
-9_rosalind.rb	for "Combing Through the Haystack"
+9_rosalind.rb	for "Finding a Motif in DNA"
+10_rosalind.rb	for "Mendel's First Law"
+
 
 
 goog exampes from others
