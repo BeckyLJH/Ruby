@@ -1,7 +1,7 @@
 #!usr/bin/env ruby
 #coding:utf-8
 usage = "#{$0} Solve the problem \"Finding a Motif in DNA \" in Rosalind
-Author:Jiahui Liu<beckyljh@gmail.com>"
+Author: bakamono <http://rosalind.info/users/bakamono/>"
 
 content = File.read("DNA.txt").split("\n")
 dna = content[0]

@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 usage = "#{$0} Solve the problem \"Counting DNA Nucleotides\" in Rosalind
-Author: Your self<http://rosalind.info/users/Yourself/>"
+Author: Your self <http://rosalind.info/users/Yourself/>"
 
 data = File.read('rosalind_dna.txt')
 # p data.count("C")

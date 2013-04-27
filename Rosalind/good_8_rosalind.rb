@@ -1,7 +1,7 @@
 #!usr/bin/env ruby
 #coding:utf-8
 usage = "#{$0} Solve the problem \"Translating RNA into Protein \" in Rosalind
-Author:Jiahui Liu<beckyljh@gmail.com>"
+Author: cure <http://rosalind.info/users/cure/>"
 
 contents = File.read("rosalind_prot.txt")
 

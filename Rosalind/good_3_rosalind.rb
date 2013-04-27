@@ -1,7 +1,7 @@
 #!usr/bin/env ruby
 #coding:utf-8
 usage = "#{$0} Solve the problem \"Complementing a Strand of DNA\" in Rosalind
-Author:cure<http://rosalind.info/users/cure/>"
+Author: cure <http://rosalind.info/users/cure/>"
 
 contents = File.read("rosalind_revc.txt")
 outfile = File.new("result.txt","w")
