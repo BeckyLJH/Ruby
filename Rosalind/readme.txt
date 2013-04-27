@@ -8,15 +8,15 @@
 8_rosalind.rb	for "Translating RNA into Protein"
 9_rosalind.rb	for "Finding a Motif in DNA"
 10_rosalind.rb	for "Mendel's First Law"
-11_rosalind.rb	for "Consensus and Profile"				嵌套数组
+11_rosalind.rb	for "Consensus and Profile"	嵌套数组
 
 
 
 goog exampes from others
 
-good_1_rosalind.rb	better than "1_rosalind.rb"		.count()	计算多个字符的数量
-good_2_rosalind.rb	better than "2_rosalind.rb"		.gsub() 全部替换
-good_3_rosalind.rb		[].reverse	数组翻转	+	贪婪、懒惰匹配
+good_1_rosalind.rb	better than "1_rosalind.rb"	.count() 计算多个字符的数量
+good_2_rosalind.rb	better than "2_rosalind.rb"	.gsub() 全部替换
+good_3_rosalind.rb	[].reverse 数组翻转 + 贪婪、懒惰匹配
 good_8_rosalind.rb
-good_9_rosalind.rb		dna.index()	索引
-good_11_rosalind.rb		矩阵
+good_9_rosalind.rb	dna.index() 索引
+good_11_rosalind.rb	矩阵
