@@ -6,15 +6,15 @@ Author: bakamono <http://rosalind.info/users/bakamono/>"
 content = File.read("DNA.txt").split("\n")
 dna = content[0]
 ss = content[1]
-p content[0]
 offset = 0
 r = []
 ## 需再探索
 while i = dna.index(ss, offset)
+puts i
   offset = (r << i + 1).last
-  p offset
+  # p offset
 end
 puts r.join(' ')
 
-p "dogandcatandcat".index("cat")
+# p "dogandcatandcat".index("cat")
 

@@ -26,6 +26,12 @@ end
 alphabet = 'ACGT'
 # 生成4*8个元素，为4*8的矩阵，且列刚好与'ACGT'相对应
 profile = alphabet.split(//).map { Array.new($str2.join("").length, 0) }
+# p跟puts区别
+# p profile[0].length
+# p profile.length
+# p profile
+# puts profile
+
 # 仅生成了8个元素
 # profile1 = Array.new($str2.join("").length, 0)
 
