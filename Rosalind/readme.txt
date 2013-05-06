@@ -14,13 +14,8 @@
 
 good exampes from others better than above
 
-<<<<<<< HEAD
 good_1_rosalind.rb	.count() 计算多个字符的数量
 good_2_rosalind.rb	.gsub() 全部替换
-=======
-good_1_rosalind.rb	better than "1_rosalind.rb"	count() 计算多个字符的数量
-good_2_rosalind.rb	better than "2_rosalind.rb"	gsub() 全部替换
->>>>>>> new and update
 good_3_rosalind.rb	[].reverse 数组翻转 + 贪婪、懒惰匹配
 good_8_rosalind.rb
 good_9_rosalind.rb	index() 索引
