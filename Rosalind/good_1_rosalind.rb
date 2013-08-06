@@ -38,5 +38,8 @@ h3 = h.map{|x| x*3 }
 
 # inject:遍历集合各元素，将元素按规则累计，返回最终值
 h4 = h.inject{|a,b| a+b}
+h4 = h.inject{|a| a*1}
+h4 = h.inject{|a| a*2}
+
 # p h4
 # puts h4 

@@ -8,4 +8,5 @@ contents = File.read("rosalind_rna.txt")
 puts contents.gsub(/[Tt]/,'U')
 
 # 输出匹配位置
+# 6
 # p /cat/ =~ "dogandcatandcat"
