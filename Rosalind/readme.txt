@@ -8,8 +8,11 @@
 8_rosalind.rb	for "Translating RNA into Protein"
 9_rosalind.rb	for "Finding a Motif in DNA"
 10_rosalind.rb	for "Mendel's First Law"
-11_rosalind.rb	for "Consensus and Profile"	嵌套数组
+11_rosalind.rb	for "Consensus and Profile" 嵌套数组
 12_rosalind.rb	for "Overlap Graphs"
+13_rosalind2.rb	for "Finding a Shared Motif" 数组之间取交集
+14_rosalind.rb	for "Finding a Protein Motif" 网页中抓取信息、正则匹配、index() 索引
+
 
 
 good exampes from others better than above
